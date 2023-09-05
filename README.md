@@ -6,9 +6,9 @@ Step 1: Visualise the sheet.
 Step 2: Delete the null values or false values
 
 Step 3: In the Boolean features, 1 means "yes" and 2 means "no". values as 97 and 99 are missing data means "no report"                                                               
-        Sex: 1 for female and 2 for male.                                                                                                                                            
-        Covid test findings. Values 1-3 mean that the patient was diagnosed (+ve). 4 or higher means that the patient  was diagnosed (-ve).
-        If the patient died indicate the date of death, and 9999-99-99 otherwise (I have changed this to no report).
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sex: 1 for female and 2 for male.                                                                    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Covid test findings: Values 1-3 mean that the patient was diagnosed (+ve). 4 or higher means that the patient was diagnosed (-ve).       
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the patient died indicate the date of death, and 9999-99-99 otherwise (I have changed this to no report).
 
 Step 4: Before applying the above changes create a reference sheet so that your original data set is not affected
 
